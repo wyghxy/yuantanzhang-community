@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "name": "yuantanzhang-community",
+  "version": "0.1.0",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "publication": "GitHub public source release",
+  "files": [
+    {
+      "path": ".env.example",
+      "bytes": 205,
+      "sha256": "f15ad452f33e005bb2f529ec44dfad2afb882e94f1c5810659d09705b3bb5226"
+    },
+    {
+      "path": ".gitattributes",
+      "bytes": 75,
+      "sha256": "68a17b45e2749a280242bf0abc30dc6b7c9faf167579438d06fc71707be0a22d"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "bytes": 759,
+      "sha256": "42624ccd19a41bcad5fa8ef6b09034d4aacce1cbc1728d6394f565d0efd3284f"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 81,
+      "sha256": "49f4f091a64179abe60eb361671403d442ae453fc0c01968905cecc880f7cf19"
+    },
+    {
+      "path": "app/desk/page.tsx",
+      "bytes": 209,
+      "sha256": "27021dbc29cfaf501f44369cb9b61e45b288a8d3ed531f4c74f52f8e444bcd0b"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 33308,
+      "sha256": "85a076897aee4cd2081af1452160631403f1e979b51a4fa38f2d5afa647d7913"
+    },
+    {
+      "path": "app/home/open-source.css",
+      "bytes": 7124,
+      "sha256": "c8b799117e3f023cd332d936a5985fc2f107c6320d86bbdc2c2802779e316e23"
+    },
+    {
+      "path": "app/home.css",
+      "bytes": 18167,
+      "sha256": "b07c3103da4e6e65aaea572f12da08b390f8fd2f922689396f7618aefaf444bb"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 1863,
+      "sha256": "ef3b04a8a6071a9da9c61ab50745b744ccb4e696522ec1960bb80feb1949dd2f"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 159,
+      "sha256": "0c73171a2808fd01cc53fbd7bb73c3a0aa76c42572a7d1eb9974f98592dc7d22"
+    },
+    {
+      "path": "BRAND-NOTICE.md",
+      "bytes": 648,
+      "sha256": "fad336a5cc5c4c85362520f83a3270e1e492252df7fa00f5f65cd4310336b24e"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 862,
+      "sha256": "56188d05b00a487e5b20ae4961d340105ada25c465ec7757a3f1ca3710777b6c"
+    },
+    {
+      "path": "CONFIGURATION.md",
+      "bytes": 2949,
+      "sha256": "8b0bb89fc2e3427a820168eea3dae9bc085ce64b26c20d56d512e9ab67643bcc"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 676,
+      "sha256": "00a672a6abcdee93afa165b91b3d2b4b243a6cc3d73f5bc1381796d2a606244c"
+    },
+    {
+      "path": "DISCLAIMER.md",
+      "bytes": 1925,
+      "sha256": "3d8dff86890066da17043d644955365868f88f20e50ed4cd6e58b7314aab1176"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 4563,
+      "sha256": "c0ea4a896d2c8c394b29f9427589996db826cd501c512279ff0ed3ef48fabbe5"
+    },
+    {
+      "path": "licenses/dependencies.json",
+      "bytes": 18993,
+      "sha256": "b7f07d585bfd23c970f385fcfb9c2854e6c16dcc1cafa7e2f67dd377bb016ebe"
+    },
+    {
+      "path": "LICENSING.md",
+      "bytes": 2162,
+      "sha256": "e29e04d10c2a3bdca9bfe89afd044f965f780d45f2d33f8625fccd2e22500c1a"
+    },
+    {
+      "path": "next-env.d.ts",
+      "bytes": 288,
+      "sha256": "1862ac4bbbc5192d4bf562161df66ea547ed3e67173100656ab606ae9797db2b"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 188,
+      "sha256": "ae05a4346fc4bc45683d3f4b7754accc35291c82dd28b20a496899ebad65fbc3"
+    },
+    {
+      "path": "NOTICE",
+      "bytes": 430,
+      "sha256": "ef4d6fb71dfc9522416273c871e273c6d533b6d6e902ac662658a91d687b1115"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1174,
+      "sha256": "f9ee07d46dff3c57a540cbdc9adf6397041d6453b890b4a8ad2dfa31abecbe3d"
+    },
+    {
+      "path": "PERSONAL-USE-GRANT.md",
+      "bytes": 2505,
+      "sha256": "0fcb1891db7852a1174fa2bc8cb4037c220ca570f2fb81e4a032b74f01cd2f2e"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "bytes": 42250,
+      "sha256": "24cd374f66386bcefb9c7b1b10efe425da0f784fce16a2abf57363b8d9f891ce"
+    },
+    {
+      "path": "PRIVACY.md",
+      "bytes": 1377,
+      "sha256": "786d2b2cadc21070acd579827f22c5fb50fb53913c05afc33ab6a72a05dc0974"
+    },
+    {
+      "path": "public/fonts/Inter-OFL.txt",
+      "bytes": 4376,
+      "sha256": "5dd548d31a85f756e01d63e00d7faf1e324103ed3e9102fcbbabf2cc2db6dd39"
+    },
+    {
+      "path": "public/fonts/Inter.ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031"
+    },
+    {
+      "path": "public/fonts/NotoSansSC-OFL.txt",
+      "bytes": 4387,
+      "sha256": "babcfe66c8a098b2fa279bc724a3a342f8124f77ce18941fbcc1bbb39823cded"
+    },
+    {
+      "path": "public/fonts/NotoSansSC.woff2",
+      "bytes": 7782072,
+      "sha256": "aef8c34277afad81ecd0227138a830263c0caea65b7aea66d1195395f097b55a"
+    },
+    {
+      "path": "public/showcase/workbench.png",
+      "bytes": 117743,
+      "sha256": "da3782c21b7c17a2eb4ac6cb084b7afc25156d45ec663638e5d8abb60998ad34"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5975,
+      "sha256": "dd600d90ac5304727c0b12f4994594f8d5db9d3b5f7801fc072ee265c09c5eea"
+    },
+    {
+      "path": "scripts/license-inventory.mjs",
+      "bytes": 2433,
+      "sha256": "e7fbcb85af5e1be3abd55a792f171e0bf4ee44f757f88b5715b3b0a6de982a08"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 1937,
+      "sha256": "d85876be1fa0360cd52e078754db4ec849ece6545701668abc5ae9cd207a43b7"
+    },
+    {
+      "path": "src/domain.ts",
+      "bytes": 946,
+      "sha256": "2fd63beb043d7eebf063c228521808a2b9157dd8554a9d32ffc32d3f6b946808"
+    },
+    {
+      "path": "src/storage.ts",
+      "bytes": 3998,
+      "sha256": "6bed223eaf029df256621de55a7bab95a4a855a921dfa3d5d77a46eda46771a1"
+    },
+    {
+      "path": "src/transfer.ts",
+      "bytes": 18469,
+      "sha256": "9f8271b74379eff810ffef4281a388046a4bd7eb0c696fb14fed030f20a2e8cb"
+    },
+    {
+      "path": "src/ui/Desk.tsx",
+      "bytes": 19147,
+      "sha256": "7a1acd341677229ac3c97e6f456dd07351dcdecdf9ddfa850eaa69c0e2bfbe17"
+    },
+    {
+      "path": "src/ui/editor-normalize.ts",
+      "bytes": 1494,
+      "sha256": "0c334771afbe0a3735ba112e52a42c699899f723529d6f7dddcb7f572515d594"
+    },
+    {
+      "path": "src/ui/Icons.tsx",
+      "bytes": 2657,
+      "sha256": "08c15a2f84452a90150c09b1e5ba72bf070884be090483829c353b5d08d5037a"
+    },
+    {
+      "path": "src/ui/ImportDialog.tsx",
+      "bytes": 5522,
+      "sha256": "60199934736a6447d76285690cb9c5c477f8be5ec89372f69e7d256d09d91f45"
+    },
+    {
+      "path": "src/ui/MaterialLibrary.tsx",
+      "bytes": 5177,
+      "sha256": "9dc17c2f00e1ec3d19c6a19c34674f69066e62ecfe282a3f0f96ce18afff5bac"
+    },
+    {
+      "path": "src/ui/PublicHome.tsx",
+      "bytes": 13997,
+      "sha256": "70ad43e9a7a6532d5f3de97ffe7bd20881f2b164244a695a7fd927d561c46367"
+    },
+    {
+      "path": "src/ui/SourceReader.tsx",
+      "bytes": 5018,
+      "sha256": "5bb7b49f3a53d03b63972060c7510d71b588f0308715faa42023854bc8f8d521"
+    },
+    {
+      "path": "src/ui/Writer.tsx",
+      "bytes": 11452,
+      "sha256": "74ef695e7137126ce80169e7e5e1a90368de20f3c4e809bb7d81f206e8af79db"
+    },
+    {
+      "path": "tests/editor-normalize.test.ts",
+      "bytes": 3616,
+      "sha256": "d031ef8d9f87dfd8b4cbeb816887cc231268d5f42f6ccecea03aaa6719808a1e"
+    },
+    {
+      "path": "tests/storage.test.ts",
+      "bytes": 3208,
+      "sha256": "2499099f3318e250fc0f1b17cdcfab1053d481f60b6f7cfbe01ec1a6c830ae26"
+    },
+    {
+      "path": "tests/transfer.test.ts",
+      "bytes": 8977,
+      "sha256": "fcc99ed9e9f2159fbf9e764cf4296c91ab8c3641340712f480ad1cced7f1c82a"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2026,
+      "sha256": "7b256cf0cd5ee42a0e84844501a1b99aae206f48f66f8eab14f448ce357a8af5"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 680,
+      "sha256": "4987fb0b772e72fce37177bd12047434f757e81b84c57877343d16cb682492c6"
+    }
+  ]
+}
