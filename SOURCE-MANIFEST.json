@@ -46,9 +46,14 @@
       "sha256": "b07c3103da4e6e65aaea572f12da08b390f8fd2f922689396f7618aefaf444bb"
     },
     {
+      "path": "app/icon.svg",
+      "bytes": 352,
+      "sha256": "d3f83f08faeef8beea18e049cb09a5d3d1321c958262a27388a6c5349d672c0c"
+    },
+    {
       "path": "app/layout.tsx",
-      "bytes": 1863,
-      "sha256": "ef3b04a8a6071a9da9c61ab50745b744ccb4e696522ec1960bb80feb1949dd2f"
+      "bytes": 1841,
+      "sha256": "de52ebf1e11fee77b9a1114711b1f4afd642bef4cd4bb0501cf26d4f4b9232a5"
     },
     {
       "path": "app/page.tsx",
@@ -57,8 +62,8 @@
     },
     {
       "path": "BRAND-NOTICE.md",
-      "bytes": 648,
-      "sha256": "fad336a5cc5c4c85362520f83a3270e1e492252df7fa00f5f65cd4310336b24e"
+      "bytes": 621,
+      "sha256": "36b957a2ed899f6c55879748200e031fa92e41555d03b9ff169eb5ac44708779"
     },
     {
       "path": "CHANGELOG.md",
@@ -187,8 +192,8 @@
     },
     {
       "path": "src/ui/Desk.tsx",
-      "bytes": 19147,
-      "sha256": "7a1acd341677229ac3c97e6f456dd07351dcdecdf9ddfa850eaa69c0e2bfbe17"
+      "bytes": 19059,
+      "sha256": "bc98e7fe2cbbfba16d3be7981a967e6bf05a7d4f0fe4e2d92d626a8136e65cf8"
     },
     {
       "path": "src/ui/editor-normalize.ts",
