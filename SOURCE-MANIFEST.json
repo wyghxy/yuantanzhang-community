@@ -156,14 +156,19 @@
       "sha256": "aef8c34277afad81ecd0227138a830263c0caea65b7aea66d1195395f097b55a"
     },
     {
+      "path": "public/showcase/homepage.png",
+      "bytes": 47223,
+      "sha256": "3c9f2f0a524a75f5d0dbb932b3d04c12276b5a1f3ab5ce632de4d41c8af107df"
+    },
+    {
       "path": "public/showcase/workbench.png",
       "bytes": 117743,
       "sha256": "da3782c21b7c17a2eb4ac6cb084b7afc25156d45ec663638e5d8abb60998ad34"
     },
     {
       "path": "README.md",
-      "bytes": 5975,
-      "sha256": "dd600d90ac5304727c0b12f4994594f8d5db9d3b5f7801fc072ee265c09c5eea"
+      "bytes": 6070,
+      "sha256": "20f18ab498b50dc3b7bc9859aaf218b711d3607b1f922b65d536d11a6900bc7b"
     },
     {
       "path": "scripts/license-inventory.mjs",
@@ -247,8 +252,8 @@
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "bytes": 2026,
-      "sha256": "7b256cf0cd5ee42a0e84844501a1b99aae206f48f66f8eab14f448ce357a8af5"
+      "bytes": 2089,
+      "sha256": "1d9a1115c84dc0bc9508e785c746ebfd0733c968c20e7744374a66bc21734975"
     },
     {
       "path": "tsconfig.json",

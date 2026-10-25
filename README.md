@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="public/showcase/workbench.png" alt="元探长个人工作台：左侧写作、右侧资料，清楚、本地、无需账号" width="1200">
+  <img src="public/showcase/homepage.png" alt="元探长个人社区版首页：个人版与元空间双入口，以及真实工作台预览" width="1200">
 </p>
 
 ## 一张桌面，完成从阅读到表达
@@ -68,6 +68,8 @@ pnpm build
 | 模型调用、账号、积分与计费 | 本仓库不包含 |
 
 “记录来源链接”只保存地址，不会请求来源平台，也不代表已经取得自动抓取或转载权限。
+
+![元探长个人工作台：左侧写作、右侧资料](public/showcase/workbench.png)
 
 ## 数据留在本机
 
